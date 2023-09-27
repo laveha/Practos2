@@ -1,0 +1,14 @@
+D:\Проекты\Практос 2\bin\Debug\net6.0\Практос 2.exe
+D:\Проекты\Практос 2\bin\Debug\net6.0\Практос 2.deps.json
+D:\Проекты\Практос 2\bin\Debug\net6.0\Практос 2.runtimeconfig.json
+D:\Проекты\Практос 2\bin\Debug\net6.0\Практос 2.dll
+D:\Проекты\Практос 2\bin\Debug\net6.0\Практос 2.pdb
+D:\Проекты\Практос 2\obj\Debug\net6.0\Практос 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Проекты\Практос 2\obj\Debug\net6.0\Практос 2.AssemblyInfoInputs.cache
+D:\Проекты\Практос 2\obj\Debug\net6.0\Практос 2.AssemblyInfo.cs
+D:\Проекты\Практос 2\obj\Debug\net6.0\Практос 2.csproj.CoreCompileInputs.cache
+D:\Проекты\Практос 2\obj\Debug\net6.0\Практос 2.dll
+D:\Проекты\Практос 2\obj\Debug\net6.0\refint\Практос 2.dll
+D:\Проекты\Практос 2\obj\Debug\net6.0\Практос 2.pdb
+D:\Проекты\Практос 2\obj\Debug\net6.0\Практос 2.genruntimeconfig.cache
+D:\Проекты\Практос 2\obj\Debug\net6.0\ref\Практос 2.dll
